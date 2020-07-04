@@ -70,3 +70,10 @@ body {
 P.mipar {
     text-align: right;
 }
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
