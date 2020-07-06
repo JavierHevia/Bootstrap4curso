@@ -34,3 +34,6 @@ $(document).ready(function(){
 // package.json
     // npm run watch:all
         // npm install --save-dev onchange@3.3.0 parallelshell@3.0.1
+
+// npm run copyfonts
+    // npm run clean  
