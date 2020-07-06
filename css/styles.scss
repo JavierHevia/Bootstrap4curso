@@ -78,3 +78,16 @@ body{
 .color-form{
     background-color: #F1BE53;
 }
+
+.modal-header {
+    background:  #512DA8;
+    color:floralwhite;
+}
+
+.modal-body{
+    background: #DFC7FF;
+}
+
+// lessc styles.less styles.css
+// npm install --save-dev node-sass
+// npm run scss
